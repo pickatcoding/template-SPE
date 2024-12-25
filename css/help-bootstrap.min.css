@@ -1608,6 +1608,10 @@ progress {
         flex: 0 0 auto;
         width: auto
     }
+    .col-xl-0 {
+        flex: 0 0 auto;
+        width: 13.9%;
+    }
 
     .col-xl-1 {
         flex: 0 0 auto;
