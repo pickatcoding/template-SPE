@@ -8066,6 +8066,11 @@ fieldset:disabled .btn {
     padding-bottom: 3rem !important
 }
 
+.py-6 {
+    padding-top: 3.5rem !important;
+    padding-bottom: 3.5rem !important
+}
+
 .pt-0 {
     padding-top: 0 !important
 }
@@ -8288,7 +8293,7 @@ fieldset:disabled .btn {
 }
 
 .text-secondary {
-    color: #FFF0E6 !important
+    color: #001dffd9 !important
 }
 
 .text-success {
