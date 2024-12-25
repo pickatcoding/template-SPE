@@ -519,16 +519,24 @@
 
 /*** Counter Facts Start ***/
 .counter-facts {
+<<<<<<< HEAD
     background: linear-gradient(rgba(255, 255, 255, .9), rgba(255, 255, 255, 0.8)), url(../img/carousel-1.jpg);
     background-size: cover;
     background-attachment: fixed;
     /*background-position: center center;*/
+=======
+    background: linear-gradient(rgb(255 255 255 / 10%), rgb(255 255 255 / 10%)), url(../img/courses-2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+>>>>>>> adc999d92032b2b1786fb5c81e3e3f0880df1c99
     background-repeat: no-repeat;
 }
 
 .counter-facts .counter {
     position: relative;
     text-align: center;
+<<<<<<< HEAD
     width: 150px;
     min-height: 225px;
     padding: 10px 15px;
@@ -536,6 +544,15 @@
     border-radius: 30px;
     box-shadow: 0 8px 5px rgb(0 0 0 / 52%);
     background: #ffffff30;
+=======
+   /*  width: 200px;
+    min-height: 215px;
+    padding: 10px 15px;
+    margin: 0 auto;
+    border-radius: 100px; */
+    box-shadow: 0 8px 5px rgba(0, 0, 0, 0.2);
+   /*  background: var(--bs-white); */
+>>>>>>> adc999d92032b2b1786fb5c81e3e3f0880df1c99
 }
 
 .counter-facts .counter:before {
@@ -546,22 +563,39 @@
     left: 0;
     top: 0;
     border-radius: 10px 10px 0 0;
+<<<<<<< HEAD
     background-color: var(--bs-primary);
+=======
+    /* background-color: var(--bs-primary); */
+>>>>>>> adc999d92032b2b1786fb5c81e3e3f0880df1c99
 
 }
 
 .counter-facts .counter .counter-icon {
+<<<<<<< HEAD
     position: relative;
+=======
+    /* position: relative;
+>>>>>>> adc999d92032b2b1786fb5c81e3e3f0880df1c99
     width: 120px;
     height: 100px;
     margin: 0 auto 10px;
     border-radius: 10px 10px 0 0;
+<<<<<<< HEAD
     transform: translateY(-20px);
     font-size: 40px;
     line-height: 90px;
     color: var(--bs-secondary);
     background: rgba(1, 143, 252, 0.5);
     clip-path: polygon(0% 0%, 100% 0, 100% 70%, 50% 100%, 0 70%);
+=======
+    transform: translateY(-20px); */
+    font-size: 50px;
+    line-height: 90px;
+    color: var(--bs-secondary);
+    background: rgba(1, 143, 252, 0.5);
+    clip-path: polygon(0% 0%, 100% 0, 100% 100%, 78% 100%, 0 72%);
+>>>>>>> adc999d92032b2b1786fb5c81e3e3f0880df1c99
 }
 
 .counter-facts .counter .counter-icon:before {
@@ -573,7 +607,11 @@
     left: 50%;
     transform: translateX(-50%);
     border-radius: 10px 10px 0 0;
+<<<<<<< HEAD
     background: rgba(0, 58, 102, 0.5);
+=======
+   /*  background: rgba(0, 58, 102, 0.5); */
+>>>>>>> adc999d92032b2b1786fb5c81e3e3f0880df1c99
     z-index: -1;
     clip-path: polygon(0% 0%, 100% 0, 100% 70%, 50% 100%, 0 70%);
 }
@@ -584,8 +622,13 @@
 }
 
 .counter-facts .counter h3 {
+<<<<<<< HEAD
     color: var(--bs-primary);
     font-size: 16px;
+=======
+    color: #FFFFFF;
+    font-size: 17px;
+>>>>>>> adc999d92032b2b1786fb5c81e3e3f0880df1c99
     font-weight: 600;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -596,7 +639,11 @@
     font-size: 30px;
     font-weight: 700;
     display: block;
+<<<<<<< HEAD
     color: var(--dark);
+=======
+    color: #FFFF;
+>>>>>>> adc999d92032b2b1786fb5c81e3e3f0880df1c99
 }
 
 @media screen and (max-width: 1200px) {
@@ -607,9 +654,12 @@
 
 /*** Counter Facts End ***/
 
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> adc999d92032b2b1786fb5c81e3e3f0880df1c99
 /*------------End Css SPE--------------------*/
